@@ -1,0 +1,23 @@
+{
+  "name": "intro2css3",
+  "version": "1.0.0",
+  "description": "Introduction to CSS3 WEB7215",
+  "main": "bin/www",
+  "dependencies": {
+    "express": "^4.14.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node bin/www"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/salsada/intro2css3.git"
+  },
+  "author": "Alberto Botero",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/salsada/intro2css3/issues"
+  },
+  "homepage": "https://github.com/salsada/intro2css3#readme"
+}
