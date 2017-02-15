@@ -1,0 +1,17 @@
+{
+  "name": "intro2css3",
+  "description": "Introduction to CSS3 WEB7215",
+  "main": "bin/www",
+  "authors": [
+    "Alberto Botero"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
