@@ -1,17 +1,21 @@
 {
-  "name": "intro2css3",
-  "description": "Introduction to CSS3 WEB7215",
-  "main": "bin/www",
-  "authors": [
-    "Alberto Botero"
-  ],
-  "license": "MIT",
-  "homepage": "",
-  "ignore": [
-    "**/.*",
-    "node_modules",
-    "bower_components",
-    "test",
-    "tests"
-  ]
+    "name": "intro2css3",
+    "description": "Introduction to CSS3 WEB7215",
+    "main": "bin/www",
+    "authors": [
+        "Alberto Botero"
+    ],
+    "license": "MIT",
+    "homepage": "",
+    "ignore": [
+        "**/.*",
+        "node_modules",
+        "bower_components",
+        "test",
+        "tests"
+    ]
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/wgray01/intro2css3.git"
+    },
 }
